@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+transformers
+peft
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+opencv-python-headless
+sacremoses
